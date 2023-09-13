@@ -30,8 +30,8 @@ interests:
   - Deep Learning
   - Bayesian inference
   - Monte Carlo methods
-  - Non-parametric & Semi-parametric Methods
   - Inverse Problems
+  - Non-parametric & Semi-parametric Methods
 
 # Education to show in About widget
 education:
