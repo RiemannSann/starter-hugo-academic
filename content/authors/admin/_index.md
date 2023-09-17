@@ -79,7 +79,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Wei Hong is a graduate student of MSc Mathematical Sciences at University of Oxford. He graduated with distinction in BSc Mathematics from University of Manchester. His research interests are focused on the fertile intersection of mathematics and statistics.
+Wei Hong is a recent graduate who holds an MSc in Mathematical Sciences from the University of Oxford, where he also earned his BSc in Mathematics with distinction from the University of Manchester.
 
-He has gained some hard-won placements to forge a close connection with high-profile companies and elites in qualitative jobs. His close ties with the alumni of great Chinese universities, in particular Peking University and Tsinghua University, build up a strong network, while he actively engaged in various student-led activities.
+Wei's academic pursuits have centered on the intersection of mathematics and statistics. He boasts strong programming skills in Python, R, MATLAB, Julia, and C++. His expertise extends to statistical probabilistic programming, including Anglican, and a wide range of statistical algorithms such as Probability Graph Models, Conditional Random Fields, Generative Adversarial Networks, and more.
+
+Wei excels in Statistics Analysis and Database Management. Proficient in SAS for data analysis and skilled in database systems like MySQL, PostgreSQL, and Microsoft SQL Server, he can efficiently process and analyze data.
+
+During his academic journey, Wei secured coveted placements with prestigious companies, establishing valuable connections within the industry. His affiliations with esteemed Chinese universities, including Peking University and Tsinghua University, further amplify his network. Wei's proactive engagement in student-led initiatives underscores his dedication to personal growth and community involvement.
 {style="text-align: justify;"}
