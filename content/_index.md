@@ -41,22 +41,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  # - block: features
+  #   content:
+  #     title: Skills
+  #     items:
+  #       - name: R
+  #         description: 90%
+  #         icon: r-project
+  #         icon_pack: fab
+  #       - name: Statistics
+  #         description: 100%
+  #         icon: chart-line
+  #         icon_pack: fas
+  #       - name: Photography
+  #         description: 10%
+  #         icon: camera-retro
+  #         icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -82,6 +82,39 @@ sections:
               * Analysing
               * Modelling
               * Deploying
+        - title: Quantitative Research Analyst, Financial Engineering Department
+          company: China Great Wall Securities (CGWS)
+          company_url: ''
+          company_logo: 
+          location: Shanghai, P.R. China
+          date_start: '2021-02-01'
+          date_end: '2021-05-01'
+          description: |2-
+              * Involved in **project one**: Quantitative Market Timing Based on Mahalanobis Distance to Build Stock Investment Strategy; **project two**: Fund Investment Strategies Based on Past Returns.
+              * **Project one**: Measured data similarity instead of relativity, identified market trends by the MACD indicator (the DEA line), the accuracy rate of measuring historical market hit 70%.
+              * **Project two**: assisted in the reproduction of Clifford S. Asness’ Strategy from the Power of Past Stock Returns to Explain Future Stock Returns, during which the period of market/investment timing was shortened to the weekly unit and the calculation of R square was used to do the evaluation for forecasts.   
+              * Responsible for the weekly report writing with data extracted from Wind (including stock market indexes, futures exchange rates, etc) and the follow-up data analysis.
+        
+        - title: Data Analyst, Data Analysis Departmen
+          company: Shanghai LongYun Media Group Co., Ltd (OBM)
+          company_url: ''
+          company_logo: 
+          location: Shanghai, P.R. China
+          date_start: '2020-04-01'
+          date_end: '2020-08-01'
+          description: |2-
+              * **Core duties**: web crawler, database management, web development, data visualization, data analysis, etc.
+              * P**hilips Project: engaged in web crawler and data cleaning:** supporting the cross-platform crawling of data (purchases at different time nodes and the portrait of consumers mainly from TaoBao.com, JD.COM, and Tik Tok); **past data analysis and future trend predictio**: NLP (natural language processing) analysis for customer satisfaction and purchase motivation and facilitate the company's decision-making about its publicity methods (star endorsements, live streaming marketing, online/offline advertising) to reach target customers.
+              * Company intranet construction: back-end automatic data crawling and database-based visualization module building (making histogram, scatter diagram, etc) (possibly promoted to future projects of the company).
+        - title: Intern, Social Network Group (SNG) Department
+          company: Tencent Holdings Limited (TCEHY)
+          company_url: ''
+          company_logo: 
+          location: Shen Zhen City, P.R. China
+          date_start: '2020-03-01'
+          date_end: '2020-03-01'
+          description: |2-
+              * Assisted the development of recommendation system algorithm for social network services and that of data mining techniques for customer relationship management.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
