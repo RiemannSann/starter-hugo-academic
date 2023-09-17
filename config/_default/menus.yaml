@@ -16,8 +16,8 @@ main:
   - name: Activities
     url: '#activities'
     weight: 30
-  - name: Publications
-    url: '#featured'
+  - name: Miyoki
+    url: '#gallery'
     weight: 50
   - name: Contact
     url: '#contact'
